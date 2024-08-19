@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnctr37
-- 👀 I’m interested in learning more new topics in the field of computer science.
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 👀 I’m interested in learning more new topics in the field of computer science and economics.
+- 🌱 I’m currently into Data Analysis and Visualization.
 
 
 <!---
